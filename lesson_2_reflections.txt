@@ -1,0 +1,4 @@
+Lesson 2:
+What happens when you initialize a repository? Why do you need to do it?
+It creates the space to store commits but it doesn't tell you what to track or make any commits.  It's giving 
+you the freedom to decide for yourself what and when and the details to provide in a commit!!!
