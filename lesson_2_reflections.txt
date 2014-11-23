@@ -2,3 +2,12 @@ Lesson 2:
 What happens when you initialize a repository? Why do you need to do it?
 It creates the space to store commits but it doesn't tell you what to track or make any commits.  It's giving 
 you the freedom to decide for yourself what and when and the details to provide in a commit!!!
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Staging area has items you want to track changes on.  While the working directory may include all files needed to execute
+they all may not be urgent to track.  Staging area lets you focus on changes you are most worried about.
+
+How can you use the staging area to make sure you have one commit per logical change?
+One way would be to add one file at a time and commit it.  Frequent updates.
