@@ -11,3 +11,20 @@ they all may not be urgent to track.  Staging area lets you focus on changes you
 
 How can you use the staging area to make sure you have one commit per logical change?
 One way would be to add one file at a time and commit it.  Frequent updates.
+
+Reflect: Visualizing with Diagrams
+Now that you’ve had some experience creating branches and drawing diagrams of your history, go add the following question and your thoughts on it to your reflections file:
+How do the diagrams help you visualize the branch structure?
+
+This lets me know why stuff didn't always look like cbuckey but if I typed in the exact commits I'd still get 
+the result because the commit history is very nonlinear.  It only keeps necessary links to get to a beginning.
+
+Reflect: Automatic vs. Manual Merging
+Now that you’ve learned when Git will not be able to automatically merge branches, and what happens 
+when it can’t, go add the following question and your thoughts on it to your reflections file:
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The benefit of automatic merging is it takes the changes from the original in different versions and
+decides if there might be a conflict.  In this case, it requires manual merging.  If changes happen
+in different parts relative to the original file then both are considered relevant. This is good because
+it would match what I might do manually.  Of course the conflict with others is something that would be discussed.
