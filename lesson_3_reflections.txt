@@ -1,0 +1,2 @@
+When would you want to create a remote repository vs. keeping everything local?  
+When you want to share with others or yourself away from the local environment.
